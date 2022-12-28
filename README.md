@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @yvrcodex
-- 👀 I’m interested in electronic, telecommunication, programation, computer language, IoT, games, book, gadgets
-- 🌱 I’m currently learning advanced electronics (digital and analogic), computer architecture, Electromagnetism in Engineering
-- 💞️ I’m looking to collaborate on innovation engineering
-- 📫 How to reach me yvrcodex@gmail.com
+# <center> Hello there! I'm Yasser </centery> 
+ ### <p style='text-align: center;'> his is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional profile when the content collection becomes relevant. </p>
+___
+###  <p style='text-align: center;'> [Contact]() | [College]() | [Education]() | [what am I doing?]() </p>
+___
+<p style='text-align: center;'>
+ <img align="center" alt="yvrcodex-c" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="yvrcodex-cpp" height="30" width="30"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="yvrcodex-matlab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" alt="yvrcodex-labview" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg">
+  <img align="center" alt="yvrcodex-arduimo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="yvrcodex-python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="yvrcodex-autocad" height="30" width="30" src="https://emsfs.autodesk.com/2023/BADGES/ACD_2023_BADGE_36X36.png">
+  <img align="center" alt="yvrcodex-fusion360" height="30" width="30" src="https://emsfs.autodesk.com/2023/BADGES/F360_2023_BADGE_36X36.png">
+  <img align="center" alt="yvrcodex-eagle" height="30" width="30" src="https://knowledge.autodesk.com/sites/default/files/product-logo-sm/eagle-2017-badge-75x75.png">
+  <img align="center" alt="yvrcodex-proteus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
+  <img align="center" alt="yvrcodex-multsim" height="30" width="40" src="https://cdn.shopify.com/s/files/1/0559/1970/6265/articles/b52afe263dda3f9c16df3a5e4d2f90e7.png?v=1652710325">
+  <img align="center" alt="yvrcodex-raspberry" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="yvrcodex-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img align="center" alt="yvrcodex-c=IFTTT" height="30" width="30" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91816e41-5208-4886-bd62-a91a3ff6747b.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3">
+  <img align="center" alt="yvrcodex-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="yvrcodex-lua" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"> </p>
 
-<!---
-yvrcodex/yvrcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg)
+## Education
+* Pontifical University Catholic - Minas Gerais
+
+## Graduation
+* Electronics and Telecommunications Engineering (on)
+* Electrical Engineering (on)
+* Control and Automation Engineering (stand by)
+* Software Engineering (next)
+
+## Field of Study
+* Electromagnetism
+* Fields, Wave and Optic
+* Analogic Electronics
+* Digital Electronics
+* Power Electronics
+* Embedded System
+* Antenna and Propagation
+* Telecommunications Systems
+* Internet of things (IoT)
+* Radiocommunication
+* Signal Processing
+
+### <p style='text-align: center;'> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </p>
