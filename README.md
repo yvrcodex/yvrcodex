@@ -49,7 +49,7 @@ ___
 * Signal Processing
 
 ## What's on
-Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a robot car made to avoid objects using various ultrasonic sensors and microcontroller programming, when this project goes forward I will make all the content available, including schematic, code and how to build.
+Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a robo-car made to avoid objects using various ultrasonic sensors and microcontroller programming, when this project goes forward I will make all the content available, including schematic, code and how to build.
 ___
 
 ###### <p align="center"> reach me
