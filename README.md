@@ -1,4 +1,4 @@
- <h1 align="center"> Hello there! I'm Yasser </h1>
+<h1 align="center"> Hello there! I'm Yasser </h1>
 
 <p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant. </p>
   
@@ -51,4 +51,10 @@ ___
 ## What's on
 Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a robot car made to avoid objects using various ultrasonic sensors and microcontroller programming, when this project goes forward I will make all the content available, including schematic, code and how to build.
 ___
-### <p align="center"> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </p>
+
+<div>
+<p align="center">
+<a href="https://www.facebook.com/oliveirayasser" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href = "mailto:yvrcodex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+</div> 
