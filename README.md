@@ -1,6 +1,6 @@
  <h1 align="center"> Hello there! I'm Yasser </h1>
 
-<p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional profile when the content collection becomes relevant. </p>
+<p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant. </p>
   
 ###### <p align="center"> [Education](#education) | [Graduation](Graduation) | [Filed Of Study](#field-of-study) | [what am I doing?]() | [Contact](#---) </p>
 ___
