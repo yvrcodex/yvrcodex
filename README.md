@@ -1,9 +1,12 @@
-# <center> Hello there! I'm Yasser </centery> 
- ### <p style='text-align: center;'> his is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional profile when the content collection becomes relevant. </p>
-___
-###  <p style='text-align: center;'> [Contact]() | [College]() | [Education]() | [what am I doing?]() </p>
-___
-<p style='text-align: center;'>
+<div>
+  
+  <h1 align="center"> Hello there! I'm Yasser </h1>
+
+<p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional profile when the content collection becomes relevant. </p>
+ <div>
+<p align="center"> [Contact]() | [College]() | [Education]() | [what am I doing?]() </p>
+  <div/>
+<p align="center">
  <img align="center" alt="yvrcodex-c" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="yvrcodex-cpp" height="30" width="30"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -45,4 +48,4 @@ ___
 * Radiocommunication
 * Signal Processing
 
-### <p style='text-align: center;'> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </p>
+### <p align="center"> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </p>
