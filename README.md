@@ -2,12 +2,9 @@
 
 <p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant.</p>
 
- <p align="center">
- <img align="center" alt="yvrcodex-brazil" height="30" width="30" src="https://img.icons8.com/color/512/brazil.png">
- <img align="center" alt="yvrcodex-MG" height="18" width="29" src="https://i.redd.it/45jp2fwxiz821.png">
-
-  
-##### <p align="center"> [Education](#education) | [Graduation](Graduation) | [Field Of Study](#field-of-study) | [What's on?](#whats-on) | [Contact](#-reach-me) </p>
+<p align="center"> <img align="center" alt="yvrcodex-brazil" height="30" width="30" src="https://img.icons8.com/color/512/brazil.png"><img align="center" alt="yvrcodex-MG" height="18" width="29" src="https://i.redd.it/45jp2fwxiz821.png"></p>
+ 
+### <p align="center"> [Education](#education)  |  [Graduation](Graduation)  |  [Field Of Study](#field-of-study)  |  [What's on?](#whats-on)  |  [Contact](#-reach-me) </p>
 ___
   
 <p align="center">
@@ -18,16 +15,16 @@ ___
   <img align="center" alt="yvrcodex-labview" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg">
   <img align="center" alt="yvrcodex-arduimo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="yvrcodex-python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="yvrcodex-autocad" height="30" width="30" src="https://emsfs.autodesk.com/2023/BADGES/ACD_2023_BADGE_36X36.png">
-  <img align="center" alt="yvrcodex-fusion360" height="30" width="30" src="https://emsfs.autodesk.com/2023/BADGES/F360_2023_BADGE_36X36.png">
-  <img align="center" alt="yvrcodex-eagle" height="30" width="30" src="https://knowledge.autodesk.com/sites/default/files/product-logo-sm/eagle-2017-badge-75x75.png">
-  <img align="center" alt="yvrcodex-proteus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
-  <img align="center" alt="yvrcodex-multsim" height="30" width="40" src="https://cdn.shopify.com/s/files/1/0559/1970/6265/articles/b52afe263dda3f9c16df3a5e4d2f90e7.png?v=1652710325">
-  <img align="center" alt="yvrcodex-raspberry" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="yvrcodex-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img align="center" alt="yvrcodex-autocad" height="27" width="30" src="https://emsfs.autodesk.com/2023/BADGES/ACD_2023_BADGE_36X36.png">
+  <img align="center" alt="yvrcodex-fusion360" height="27" width="30" src="https://emsfs.autodesk.com/2023/BADGES/F360_2023_BADGE_36X36.png">
+  <img align="center" alt="yvrcodex-eagle" height="27" width="30" src="https://knowledge.autodesk.com/sites/default/files/product-logo-sm/eagle-2017-badge-75x75.png">
+  <img align="center" alt="yvrcodex-proteus" height="27" width="30" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
+  <img align="center" alt="yvrcodex-multsim" height="27" width="40" src="https://cdn.shopify.com/s/files/1/0559/1970/6265/articles/b52afe263dda3f9c16df3a5e4d2f90e7.png?v=1652710325">
+  <img align="center" alt="yvrcodex-raspberry" height="27" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="yvrcodex-android" height="27" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="yvrcodex-c=IFTTT" height="30" width="30" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91816e41-5208-4886-bd62-a91a3ff6747b.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3">
   <img align="center" alt="yvrcodex-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="yvrcodex-lua" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"> </p>
+  <img align="center" alt="yvrcodex-lua" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"> </p>
 
 # <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
 
