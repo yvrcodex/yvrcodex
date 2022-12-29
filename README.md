@@ -1,6 +1,11 @@
 <h1 align="center"> Hello there! I'm Yasser </h1>
 
-<p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant. </p>
+<p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant.</p>
+
+ <p align="center">
+ <img align="center" alt="yvrcodex-brazil" height="30" width="30" src="https://img.icons8.com/color/512/brazil.png">
+ <img align="center" alt="yvrcodex-MG" height="18" width="29" src="https://i.redd.it/45jp2fwxiz821.png">
+
   
 ###### <p align="center"> [Education](#education) | [Graduation](Graduation) | [Field Of Study](#field-of-study) | [What's on?](#whats-on) | [Contact](#-reach-me) </p>
 ___
@@ -53,7 +58,7 @@ Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a rob
 ___
 
 ###### <p align="center"> reach me
-<div>
+
 <p align="center">
 <a href="https://www.facebook.com/oliveirayasser" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:yvrcodex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
