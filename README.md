@@ -7,7 +7,7 @@
  <img align="center" alt="yvrcodex-MG" height="18" width="29" src="https://i.redd.it/45jp2fwxiz821.png">
 
   
-###### <p align="center"> [Education](#education) | [Graduation](Graduation) | [Field Of Study](#field-of-study) | [What's on?](#whats-on) | [Contact](#-reach-me) </p>
+##### <p align="center"> [Education](#education) | [Graduation](Graduation) | [Field Of Study](#field-of-study) | [What's on?](#whats-on) | [Contact](#-reach-me) </p>
 ___
   
 <p align="center">
