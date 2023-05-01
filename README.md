@@ -34,7 +34,7 @@ ___
 # <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide_border=true&title_color=e8c63c&icon_color=e8c63c&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide_border=true&title_color=e8c63c&icon_color=e8c63c&text_color=c9d1d9&bg_color=0d1117" alt="YVRCODEX github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrcodex&layout=compact&hide_border=true&title_color=e8c63c&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
