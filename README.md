@@ -17,7 +17,7 @@ ___
   <img align="center" alt="yvrcodex-python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="yvrcodex-autocad" height="27" width="30" src="https://emsfs.autodesk.com/2023/BADGES/ACD_2023_BADGE_36X36.png">
   <img align="center" alt="yvrcodex-fusion360" height="27" width="30" src="https://emsfs.autodesk.com/2023/BADGES/F360_2023_BADGE_36X36.png">
-  <img align="center" alt="yvrcodex-eagle" height="27" width="30" src="[https://knowledge.autodesk.com/sites/default/files/product-logo-sm/eagle-2017-badge-75x75.png](https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2021/06/autodesk-eagle-logo.png?ssl=1)">
+  <img align="center" alt="yvrcodex-eagle" height="27" width="35" src="https://www.plasmailtuofuturo.it/svg/software/eagle-logo.svg">
   <img align="center" alt="yvrcodex-proteus" height="27" width="30" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
   <img align="center" alt="yvrcodex-multsim" height="27" width="40" src="https://cdn.shopify.com/s/files/1/0559/1970/6265/articles/b52afe263dda3f9c16df3a5e4d2f90e7.png?v=1652710325">
   <img align="center" alt="yvrcodex-raspberry" height="27" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
