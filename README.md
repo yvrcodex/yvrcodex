@@ -1,4 +1,8 @@
-<h1 align="center"> Hello there! I'm Yasser </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hello+There,+I'm+Yasser;Born+in+Brazil;Raised+in+Minas+Gerais;Proud+To+Be+GALO)](https://git.io/typing-svg)
+
 
 <p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant.</p>
 
@@ -29,6 +33,13 @@ ___
 
 # <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide_border=true&title_color=e8c63c&icon_color=e8c63c&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrcodex&layout=compact&hide_border=true&title_color=e8c63c&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+
+
 ## Education
 * Pontifical University Catholic - Minas Gerais
 
@@ -55,6 +66,12 @@ ___
 Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a robo-car made to avoid objects using various ultrasonic sensors and microcontroller programming, when this project goes forward I will make all the content available, including schematic, code and how to build.
 ___
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yvrcodex&bg_color=000000&color=ffffff&line=cab902&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yvrcodex&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ###### <p align="center"> reach me
 
 <p align="center">
@@ -62,3 +79,10 @@ ___
 <a href = "mailto:yvrcodex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 </div> 
+
+<div align="center">
+<br><p align="centre"><b>Counting Stars</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yvrcodex}/count.svg" /></p> 
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer"/>
