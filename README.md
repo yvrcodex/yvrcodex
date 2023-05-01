@@ -20,6 +20,7 @@ ___
   <img align="center" alt="yvrcodex-eagle" height="27" width="35" src="https://www.plasmailtuofuturo.it/svg/software/eagle-logo.svg">
   <img align="center" alt="yvrcodex-proteus" height="27" width="30" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
   <img align="center" alt="yvrcodex-multsim" height="27" width="40" src="https://cdn.shopify.com/s/files/1/0559/1970/6265/articles/b52afe263dda3f9c16df3a5e4d2f90e7.png?v=1652710325">
+  <img align="center" alt="yvrcodex-kicad" height="30" width="30" src="https://ieee.berkeley.edu/content/images/2021/09/KiCad-1.png">
   <img align="center" alt="yvrcodex-raspberry" height="27" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="yvrcodex-android" height="27" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="yvrcodex-c=IFTTT" height="30" width="30" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91816e41-5208-4886-bd62-a91a3ff6747b.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3">
