@@ -32,12 +32,19 @@ ___
   <img align="center" alt="yvrcodex-lua" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"> </p>
 
 # <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
-
+<!-- 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide_border=true&title_color=e8c63c&icon_color=e8c63c&text_color=c9d1d9&bg_color=0d1117" alt="YVRCODEX github stats" /> 
 </div>
 
+<!-- Seu nome de usuário do GitHub 
+[![YVRCodeX GitHub stats](https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/yvrcodex)
 
+<!-- Adicionar tabela com estatísticas de linguagens 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvrcodex&layout=compact&theme=radical)](https://github.com/yvrcodex)
+
+-->
+<!-- Linguagens Ativas -->
 
 ## Education
 * Pontifical University Catholic - Minas Gerais
@@ -62,8 +69,22 @@ ___
 * Signal Processing
 
 ## What's on
-Right now I'm working on [AvertBee](https://github.com/yvrcodex/AvertBee), a robo-car made to avoid objects using various ultrasonic sensors and microcontroller programming, when this project goes forward I will make all the content available, including schematic, code and how to build.
-___
+
+Currently, my focus is on developing the Hexapod Gesture Control project. This exciting endeavor involves building a hexapod robot that can be controlled using gesture-based inputs, powered by servo motors and microcontrollers. The project aims to explore the potential of gesture-based control in robotics and pave the way for future advancements in human-robot interaction and automation.
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/WireC-00C853?style=flat-square&logo=c&logoColor=white" alt="WireC">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/MatLab-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="MatLab">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/Microcontrollers-4B0082?style=flat-square&logo=arduino&logoColor=white" alt="Microcontrollers">
+</p>
+
+---
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yvrcodex&bg_color=000000&color=ffffff&line=cab902&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
