@@ -1,4 +1,5 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,13,13,13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13&animation=twinkling&text=In%20the%20face%20of%20challenges%2C%20embrace%20the%20journey%2C%20defy%20the%20odds%2C%20and%20claim%20the%20universe%20as%20your%20own%2C%20beyond%20eternity!&fontColor=ffffff&fontSize=15&&stroke=ffffff&&strokeWidth=0&fontAlignY=30"/>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hello+There,+I'm+Yasser;Born+in+Brazil;Raised+in+Minas+Gerais;Proud+To+Be+GALO)](https://git.io/typing-svg)
@@ -105,4 +106,4 @@ Currently, my focus is on developing the Hexapod Gesture Control project. This e
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yvrcodex}/count.svg" /></p> 
 <br>
 </div>
-Índice 6: <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,13,13,13&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13&animation=twinkling&text=Real%20programmers%20don't%20write%20documentation.%20If%20it%20was%20hard%20to%20write,%20it%20should%20be%20hard%20to%20understand.&fontColor=ffffff&fontSize=17&&fontAlignY=80&section=footer"/>
