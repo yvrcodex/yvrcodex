@@ -1,4 +1,4 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13,22"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,13,13,13"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hello+There,+I'm+Yasser;Born+in+Brazil;Raised+in+Minas+Gerais;Proud+To+Be+GALO)](https://git.io/typing-svg)
@@ -105,4 +105,4 @@ Currently, my focus is on developing the Hexapod Gesture Control project. This e
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yvrcodex}/count.svg" /></p> 
 <br>
 </div>
-Índice 6: <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13,22&section=footer"/>
+Índice 6: <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,13,13,13&section=footer"/>
