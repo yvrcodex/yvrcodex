@@ -93,7 +93,6 @@ Currently, my focus is on developing the Hexapod Gesture Control project. This e
 ###### <p align="center"> reach me
 
 <p align="center">
-<a href="https://www.facebook.com/oliveirayasser" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:yvrcodex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 </div> 
