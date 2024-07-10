@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hello+There,+I'm+Yasser;Born+in+Brazil;Raised+in+Minas+Gerais;Proud+To+Be+GALO)](https://git.io/typing-svg)
 
-
 <p align="center"> This is my personal profile on Github, I currently use it to learn, research and share different technologies while I develop projects, my simple objective here will be to keep archives of academic studies on engineering that I produced myself as a way to expand my knowledge, later this profile will be linked to my professional when the content collection becomes relevant.</p>
 
 <p align="center"> <img align="center" alt="yvrcodex-brazil" height="30" width="30" src="https://img.icons8.com/color/512/brazil.png"><img align="center" alt="yvrcodex-MG" height="18" width="29" src="https://i.redd.it/45jp2fwxiz821.png"></p>
@@ -32,8 +31,17 @@ ___
   <img align="center" alt="yvrcodex-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="yvrcodex-lua" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"> </p>
 
-# <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
+ # <p align="center"> ![Snake animation](https://github.com/yvrcodex/yvrcodex/blob/output/github-contribution-grid-snake.svg) </p>
 <!-- 
+<div align="center">
+  <a href="https://github.com/yvrcodex/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrcodex&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yvrcodex&show_icons=true&count_private=true&hide_border=true&title_color=e8c63c&icon_color=e8c63c&text_color=c9d1d9&bg_color=0d1117" alt="YVRCODEX github stats" /> 
 </div>
