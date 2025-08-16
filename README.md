@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13&animation=twinkling&text=In%20the%20face%20of%20challenges%2C%20embrace%20the%20journey%2C%20defy%20the%20odds%2C%20and%20claim%20the%20universe%20as%20your%20own%2C%20beyond%20eternity!&fontColor=ffffff&fontSize=15&&stroke=ffffff&&strokeWidth=0&fontAlignY=30"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6,6,13,13,13&animation=twinkling&text=In%20the%20face%20of%20challenges%2C%20embrace%20the%20journey%2C%20defy%20the%20odds%2C%20and%20claim%20the%20universe%20as%20your%20own%2C%20beyond%20eternity!&fontColor=ffffff&fontSize=15&fontAlignY=30"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hello+There,+I'm+Yasser;Born+in+Brazil;Raised+in+Minas+Gerais;Proud+To+Be+GALO)](https://git.io/typing-svg)
