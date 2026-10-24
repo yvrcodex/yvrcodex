@@ -33,15 +33,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="39" alt="raspberrypi logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="39" alt="tensorflow logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="39" alt="vim logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
 </div>
-
-###
-
+<br>
 <!-- ################################################################################################################## -->
 
 <div data-importer="socials" align="center">
@@ -50,24 +46,27 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=245361&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=245361&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
+<br>
 
-###
+<!-- ################################################################################################################## -->
+
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yvrcodex&theme=gotham" alt="GitHub Stats" /></a>
+  <a href="https://github.com/jstrieb/github-stats"><img height="200" src="https://raw.githubusercontent.com/yvrcodex/github-stats/generated/languages.svg" alt="Languages" /></a>
+</div>
+
+
+<!-- ################################################################################################################## -->
+
+
+
 
 <div data-importer="stats" align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yvrcodex&theme=gotham&card_width=520&card_height=170" alt="GitHub Streak" /></a>
 
 </div>
-###
-
-<!-- ################################################################################################################## -->
-
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yvrcodex/yvrcodex/output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yvrcodex/yvrcodex/output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yvrcodex/yvrcodex/output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
+<br>
 
 
 <!-- ################################################################################################################## -->
